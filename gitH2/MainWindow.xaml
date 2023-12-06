@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:gitH2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <StackPanel>
         <Label Content="Oi bruv can I gyt a pint?"></Label>
-    </Grid>
+        <Button>przycisk</Button>
+    </StackPanel>
 </Window>
